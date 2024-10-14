@@ -1,0 +1,369 @@
+{
+  "BaseUrl": "https://cloud.uipath.com/dinesha/studio_",
+  "Snapshot": {
+    "Id": "5d982f94-88e6-4d81-81f1-16da79c375e2",
+    "ExpressionLanguage": "VisualBasic",
+    "ProjectType": "Process",
+    "Name": "dU project",
+    "Description": "practice usecase for understanding du fundamentals and its capabilities\r\n",
+    "LastModifiedTime": "2024-10-08T08:43:00.5377653Z",
+    "CreationTime": "2024-10-05T06:07:17.2908821Z",
+    "UserId": "84e6c2d0-5329-4106-9596-8ac9acc91010",
+    "RootFolder": {
+      "Name": "5d982f94-88e6-4d81-81f1-16da79c375e2",
+      "Folders": [
+        {
+          "Id": "9bb92dee-446b-4f11-a8fe-2d4d8a7b0542",
+          "Name": ".tmh",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "93b1d64b-3576-429c-b3ae-aa92e900911c",
+              "Name": "config.json",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "9838278f-5298-459e-b463-dde07d3054f8",
+          "Name": "dU project",
+          "Folders": [
+            {
+              "Id": "08e175eb-8178-4cda-a96f-ea2855a4515a",
+              "Name": "output files",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "6677d431-a12e-4fb0-896a-062c0bee6079",
+                  "Name": "Invoice 2.xlsx",
+                  "IsMain": false
+                },
+                {
+                  "Id": "114d3092-d080-48fe-ad2f-06666a2f5ddb",
+                  "Name": "Invoice 1.xlsx",
+                  "IsMain": false
+                },
+                {
+                  "Id": "43ebc2a2-7900-4438-b492-f77673b53b54",
+                  "Name": "Receipts.xlsx",
+                  "IsMain": false
+                }
+              ]
+            }
+          ],
+          "Files": []
+        },
+        {
+          "Id": "066603bc-2028-4557-be5f-3e7becf762f4",
+          "Name": ".objects",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "fe676c52-f8ef-420c-a711-471fea960d14",
+              "Name": ".type",
+              "IsMain": false
+            },
+            {
+              "Id": "5eed9279-e04e-425f-a171-1574de4f78ff",
+              "Name": ".metadata",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "7cb62d91-a437-4be0-8bc9-4d8e8205809e",
+          "Name": "DocumentProcessing",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "13f80b79-5bd5-4a1a-ba86-2b254da11f23",
+              "Name": "taxonomy.json",
+              "IsMain": false
+            },
+            {
+              "Id": "9329ebe3-eb7e-474f-bb0f-b22d9ab2cd14",
+              "Name": "classification.json",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "c7c50288-578f-4563-a2a0-324ecefccefe",
+          "Name": "input files",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "577bed1a-d71d-42cc-ba6b-e6e0388fd864",
+              "Name": "Invoice 2.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "ba7f096d-26e9-49c8-8ab1-f8ddd8e3eabf",
+              "Name": "Invoice 1.pdf",
+              "IsMain": false
+            },
+            {
+              "Id": "377fc91a-1665-493d-ad08-92df6e5eb4a9",
+              "Name": "Receipts.pdf",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "6e29ef83-36f6-40c5-8d2f-e36d763b82c4",
+          "Name": ".project",
+          "Folders": [],
+          "Files": [
+            {
+              "Id": "fddbe36f-5a83-40c5-a764-16c6ccc2c754",
+              "Name": "design.json",
+              "IsMain": false
+            },
+            {
+              "Id": "5a3014e3-d487-4ad0-aac4-f034a2862866",
+              "Name": "PackageBindingsMetadata.json",
+              "IsMain": false
+            }
+          ]
+        },
+        {
+          "Id": "81ad60df-3ddb-4eeb-819c-f9fb2b527b7d",
+          "Name": ".settings",
+          "Folders": [
+            {
+              "Id": "9afd6811-7829-4617-97d2-731f45284cc5",
+              "Name": "Debug",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "6dc188ef-fc4d-47d8-aaa5-0f1c21d52d1f",
+                  "Name": "settings-1a5b880a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "ef3374e6-b50e-42ad-a2b5-8f3543963ffa",
+                  "Name": "settings-590bb27b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "d9b1b71b-056b-4205-bcd9-a20a111c0d02",
+                  "Name": "settings-5190454b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "84f809dc-6010-4764-9734-e956a0f7f39a",
+                  "Name": "settings-9e9290da.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "626bc8f4-2691-4a9e-a0ac-310de84eb868",
+                  "Name": "settings-82ca306a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "91e29976-ac4e-47ce-a235-777611160bd5",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "d09e10bd-ebb1-4fd4-9cf9-8e1d14027f23",
+                  "Name": "settings-a1b2dac1.json",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "0793cb7d-eb10-470f-bf07-b0df9b3226ce",
+              "Name": "Release",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "83c77278-1ba6-4b65-9afc-bdc23c9c7599",
+                  "Name": "settings-1a5b880a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "7d7e8154-b4b0-43e3-9e2a-d2e9ebc4669a",
+                  "Name": "settings-590bb27b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "535659a9-9dbe-4e4a-9153-37152d72c786",
+                  "Name": "settings-5190454b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "fc65137c-b99f-40c0-96a9-6f60afc4b2b2",
+                  "Name": "settings-9e9290da.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "3fe0d36c-dfd9-40bd-b53d-dde10190c285",
+                  "Name": "settings-82ca306a.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "b4b0cc1f-9531-48b4-a291-d10591d1a89b",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "46415532-f5d2-4969-9e8e-96f36b8d3d1b",
+                  "Name": "settings-a1b2dac1.json",
+                  "IsMain": false
+                }
+              ]
+            },
+            {
+              "Id": "3b17ef88-8fef-4e4e-b0f0-d691d8778d3f",
+              "Name": "Design",
+              "Folders": [],
+              "Files": [
+                {
+                  "Id": "0a81cbc5-4903-4545-b280-e92e26623fa6",
+                  "Name": "settings-5190454b.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "09441dd7-f857-4f5a-a730-0a934957a699",
+                  "Name": "settings-afad0842.json",
+                  "IsMain": false
+                },
+                {
+                  "Id": "3cdbe031-753d-43de-8276-2a8ff4277649",
+                  "Name": "settings-a1b2dac1.json",
+                  "IsMain": false
+                }
+              ]
+            }
+          ],
+          "Files": []
+        }
+      ],
+      "Files": [
+        {
+          "Id": "52d46630-2989-4b7e-a545-08943f2b5900",
+          "Name": "Main.xaml",
+          "IsMain": true
+        },
+        {
+          "Id": "923a48b8-541e-444d-995a-5c781af668de",
+          "Name": "project.json",
+          "IsMain": false
+        }
+      ]
+    },
+    "Dependencies": [
+      {
+        "Name": "UiPath.Excel.Activities",
+        "Version": "[2.24.2]"
+      },
+      {
+        "Name": "UiPath.IntelligentOCR.Activities",
+        "Version": "[6.22.0]"
+      },
+      {
+        "Name": "UiPath.Mail.Activities",
+        "Version": "[1.23.11]"
+      },
+      {
+        "Name": "UiPath.OCR.Activities",
+        "Version": "[3.21.1]"
+      },
+      {
+        "Name": "UiPath.PDF.Activities",
+        "Version": "[3.20.1]"
+      },
+      {
+        "Name": "UiPath.System.Activities",
+        "Version": "[24.11.0-preview]"
+      },
+      {
+        "Name": "UiPath.Testing.Activities",
+        "Version": "[24.10.2-preview]"
+      },
+      {
+        "Name": "UiPath.UIAutomation.Activities",
+        "Version": "[24.11.1-preview]"
+      },
+      {
+        "Name": "UiPath.Word.Activities",
+        "Version": "[1.20.2]"
+      }
+    ],
+    "HasTrigger": false,
+    "DisableAutoUpdate": false
+  },
+  "OriginalFilesHash": {
+    ".settings/Release/settings-1a5b880a.json": "7LuMiqeAyudf1SiAtg+L/3TGzsMJkAoNJ7g6yi2hqOg=",
+    "project.json": "7hrAoQijyizKelqjtwpTORfr0D8+M5aexWG+sKmN0QM=",
+    ".project/PackageBindingsMetadata.json": "ib+hY6+KQbH7tsM3AxzF8P2FqvrZkPgVgASwCAs9ZLY=",
+    ".settings/Debug/settings-9e9290da.json": "7PjBQcYPpDS7UhN/HydlT7QCRIsBYnPNtHuFFBOcfg8=",
+    "DocumentProcessing/taxonomy.json": "bEOVcnxU777Vy/JzczzgV5cbZ5xmRz8HdPJf7+Mugas=",
+    "Main.xaml": "2pxDGTNNIW4oYDAqW+viqjvaTz0sgqG5ZyS89rc6z/o=",
+    ".objects/.type": "3CCz1dLN34L60zKCHKXppO/c7eSic6oZPStJW9zJKCU=",
+    ".objects/.metadata": "VA4ryVEToXU8LIjVo01nIXN9f1Mb0XIOK6EKWmLZzTQ=",
+    "dU project/output files/Receipts.xlsx": "tDfmVbtGWZxBRSWQv+wWrIS3/pCbHZfVuq7s0VKkVU4=",
+    ".settings/Design/settings-a1b2dac1.json": "/Pf++JYszjaKNRQIKt9HNhqooNNSjdx8OpMnOoey80M=",
+    "input files/Receipts.pdf": "qjkLVpO05hGt6rqKa6MPNHqF4PKYDP6OT0PNaFtndxE=",
+    ".settings/Release/settings-9e9290da.json": "7PjBQcYPpDS7UhN/HydlT7QCRIsBYnPNtHuFFBOcfg8=",
+    ".settings/Release/settings-590bb27b.json": "4fvUURCKkxFSSIwu1y1AoZuELH2J5tuzSfwKYQ+/qxo=",
+    ".settings/Debug/settings-afad0842.json": "o6cyP0e4lygMz+a1AdWsz/rRkRbvynZ6TlDRF8oah28=",
+    ".settings/Debug/settings-1a5b880a.json": "7LuMiqeAyudf1SiAtg+L/3TGzsMJkAoNJ7g6yi2hqOg=",
+    ".settings/Debug/settings-5190454b.json": "9dTmYrtHO5uIu22mdu0GX2x5y/DCUKnNBY94nZK1SXw=",
+    ".tmh/config.json": "Tk6QDUUsqtifkyIEMEjvqL300ZUpxaIp15qlWlZ+18w=",
+    ".settings/Debug/settings-82ca306a.json": "wW7p8opAxgjsb/RDAO397wAnWiGTiw2bTYZH58LTpCI=",
+    ".settings/Design/settings-afad0842.json": "jjBbv/WXwDPEhGnbSVQxlI3fuMaxR42abIF+4Qju1ok=",
+    "DocumentProcessing/classification.json": "pjMQj1pL/4HdaCxGGHIBzE8ozHwIgLArUOODD8c6Jyw=",
+    ".settings/Debug/settings-a1b2dac1.json": "jniB7XO7RvyXE8sg1W6+CdAeAGwUoixjP1iOAMQq0zY=",
+    ".settings/Release/settings-a1b2dac1.json": "jniB7XO7RvyXE8sg1W6+CdAeAGwUoixjP1iOAMQq0zY=",
+    "input files/Invoice 2.pdf": "Sm/uYRoQ0OxApZAK0tEnzgRYNOXYNrp9mSJh22OFhhE=",
+    ".settings/Release/settings-5190454b.json": "9dTmYrtHO5uIu22mdu0GX2x5y/DCUKnNBY94nZK1SXw=",
+    "input files/Invoice 1.pdf": "Xra07Ho680E2yc73vKY3spnumOCXG8mYbfSqEZDWMrU=",
+    "dU project/output files/Invoice 2.xlsx": "NANQCBCJQlRFpLyxbnAvW/PCzGd3ZEwmOSS+vqfS9HQ=",
+    "dU project/output files/Invoice 1.xlsx": "3vR5HzlkkiHkyS/t/MZmUM/7T3wgepOsZ0m6YLfpGzA=",
+    ".project/design.json": "tpigGYm5XaG029JmRVNbleDrxKui0uJxWXFRRvAf2I4=",
+    ".settings/Release/settings-82ca306a.json": "wW7p8opAxgjsb/RDAO397wAnWiGTiw2bTYZH58LTpCI=",
+    ".settings/Design/settings-5190454b.json": "R8KMXeb6aoFhT/ZIUo1Ju8IME0pdk4z0CdfLSKo011s=",
+    ".settings/Release/settings-afad0842.json": "o6cyP0e4lygMz+a1AdWsz/rRkRbvynZ6TlDRF8oah28=",
+    ".settings/Debug/settings-590bb27b.json": "4fvUURCKkxFSSIwu1y1AoZuELH2J5tuzSfwKYQ+/qxo="
+  },
+  "StudioWebFiles": [
+    "Main.xaml",
+    "project.json",
+    ".objects/.metadata",
+    ".objects/.type",
+    ".project/design.json",
+    ".project/PackageBindingsMetadata.json",
+    ".settings/Debug/settings-1a5b880a.json",
+    ".settings/Debug/settings-5190454b.json",
+    ".settings/Debug/settings-590bb27b.json",
+    ".settings/Debug/settings-82ca306a.json",
+    ".settings/Debug/settings-9e9290da.json",
+    ".settings/Debug/settings-a1b2dac1.json",
+    ".settings/Debug/settings-afad0842.json",
+    ".settings/Design/settings-5190454b.json",
+    ".settings/Design/settings-a1b2dac1.json",
+    ".settings/Design/settings-afad0842.json",
+    ".settings/Release/settings-1a5b880a.json",
+    ".settings/Release/settings-5190454b.json",
+    ".settings/Release/settings-590bb27b.json",
+    ".settings/Release/settings-82ca306a.json",
+    ".settings/Release/settings-9e9290da.json",
+    ".settings/Release/settings-a1b2dac1.json",
+    ".settings/Release/settings-afad0842.json",
+    ".tmh/config.json",
+    "DocumentProcessing/classification.json",
+    "DocumentProcessing/taxonomy.json",
+    "dU project/output files/Invoice 1.xlsx",
+    "dU project/output files/Invoice 2.xlsx",
+    "dU project/output files/Receipts.xlsx",
+    "input files/Invoice 1.pdf",
+    "input files/Invoice 2.pdf",
+    "input files/Receipts.pdf"
+  ],
+  "LockKey": "af5d1ea2-ed8e-42c1-ab12-332cf8c873d5",
+  "LocalProjectPath": "C:\\Users\\kavid\\OneDrive\\Documents\\UiPath\\dU project",
+  "ProjectId": "5d982f94-88e6-4d81-81f1-16da79c375e2",
+  "ProjectName": "dU project"
+}
